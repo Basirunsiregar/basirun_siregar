@@ -1,0 +1,13 @@
+/* mediaqueries.css */
+
+#hamburger-nav {
+  display: none;
+}
+
+#hamburger-nav.show-menu {
+  display: block;
+}
+
+/* Add more styles based on your design */
+
+
